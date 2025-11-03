@@ -46,19 +46,6 @@ This project includes **full video consultation support** and runs on **Android*
 
 ---
 
-## 🗂 Project Structure
-
-```
-
-MobileHealth/
-├── backend/          # Node.js Express API
-├── web/              # Admin + Doctor dashboards
-└── mobile/           # Patient Mobile App (Expo + Capacitor)
-
-````
-
----
-
 ## ⚙️ Backend Setup
 
 ```bash
