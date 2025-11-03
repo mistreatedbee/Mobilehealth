@@ -56,7 +56,7 @@ npm install
 Create `.env`:
 
 ```
-MONGO_URI=mongodb+srv://mobilehealth_user:mobilehealth123@myfirstcluster.oi6i2ke.mongodb.net/mobilehealth?retryWrites=true&w=majority&appName=myFirstCluster
+MONGO_URI= This File and Url should be there alreay
 PORT=5000
 ```
 
